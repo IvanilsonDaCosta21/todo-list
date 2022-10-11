@@ -9,7 +9,6 @@ $contar_tarefa = $query_tarefa->rowCount(); ?>
 
 <!DOCTYPE html>
 <html lang="pt">
-
 <head>
     <meta charset="UTF-8">
     <meta name="descricao" content="Um todo list criado para exercitar">
@@ -53,10 +52,6 @@ $contar_tarefa = $query_tarefa->rowCount(); ?>
             box-shadow: 2px 2px 25px #003ECC;
         }
 
-        /* .lista { */
-        /* overflow: auto; */
-        /* background-color: white; */
-        /* } */
     </style>
 </head>
 
